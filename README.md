@@ -1,7 +1,12 @@
 # [<b>Navi2Gaze: Leveraging Foundation Models for Navigation and Target Gazing</b>](https://arxiv.org/abs/2407.09053)
+<a href="https://arxiv.org/abs/2407.09053"><strong>Project Page</strong></a> |  <a href="https://arxiv.org/abs/2407.09053"><strong>arXiv</strong></a>  
+
+<!-- |  <a href="https://twitter.com/gao_young/status/1765680141869699534"><strong>Twitter</strong></a>    -->
+<a href="https://zhujun3753.github.io/">Jun Zhu*</a>,   <a >Zihao Du*</a>,   <a >Haotian Xu</a>,   <a >Fengbo Lan</a>,   <a >Zilong Zheng</a>, <a >Bo Ma</a>, <a href="https://shengjiewang-jason.github.io">Shengjie Wang</a>, <a >Tao Zhang</a>
 
 we develop a VLM-driven method called Navigation-to-Gaze (**Navi2Gaze**) for efficient navigation and object gazing based on task descriptions. This method uses the VLM to score and select the best pose from numerous candidates automatically. In evaluations on multiple photorealistic simulation benchmarks, **Navi2Gaze** significantly outperforms existing approaches and precisely determines the optimal orientation relative to target objects.
 
+<!-- Jun Zhu, Zihao Du, Haotian Xu, Fengbo Lan, Zilong Zheng, Bo Ma, Shengjie Wang, Tao Zhang -->
 ## Approach
 ![](media/pipeline.png)
 
