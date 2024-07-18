@@ -1,0 +1,17 @@
+socksio==1.0.0
+mpi4py==3.1.5
+openai==1.14.0
+h5py==3.10.0
+imageio==2.33.1
+kornia==0.6.8
+magnum==0.0.0
+matplotlib==3.5.3
+numpy==1.23.1
+open3d==0.17.0
+opencv_python==4.8.1.78
+Pillow==10.4.0
+pycocotools==2.0.7
+PyYAML==6.0.1
+setuptools==60.2.0
+sharedmem==0.3.8
+tqdm==4.65.2

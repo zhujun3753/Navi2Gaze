@@ -1,0 +1,1 @@
+-I/media/zhujun/0DFD06D20DFD06D2/SLAM/vlmaps/thirdparty/octree_map/. -isystem "/home/zhujun/anaconda3/envs/gpt/lib/python3.9/site-packages/torch/include" -isystem "/home/zhujun/anaconda3/envs/gpt/lib/python3.9/site-packages/torch/include/torch/csrc/api/include" -isystem /usr/local/cuda/include

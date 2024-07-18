@@ -1,0 +1,4 @@
+# ninja log v5
+0	2981	1721227013994476700	/media/zhujun/0DFD06D20DFD06D2/SLAM/navi2gaze/ops/build/temp.linux-x86_64-3.9/media/zhujun/0DFD06D20DFD06D2/SLAM/navi2gaze/ops/src/cpu/ms_deform_attn_cpu.o	75115d4ab8dcce6f
+0	9331	1721227020346581300	/media/zhujun/0DFD06D20DFD06D2/SLAM/navi2gaze/ops/build/temp.linux-x86_64-3.9/media/zhujun/0DFD06D20DFD06D2/SLAM/navi2gaze/ops/src/cuda/ms_deform_attn_cuda.o	b4fb0ea42da2a573
+0	9428	1721227020444823300	/media/zhujun/0DFD06D20DFD06D2/SLAM/navi2gaze/ops/build/temp.linux-x86_64-3.9/media/zhujun/0DFD06D20DFD06D2/SLAM/navi2gaze/ops/src/vision.o	c5eea3fe596d8501

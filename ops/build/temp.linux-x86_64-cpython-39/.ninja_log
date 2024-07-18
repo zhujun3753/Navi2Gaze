@@ -1,0 +1,4 @@
+# ninja log v5
+0	2634	1704980647026725700	/media/zhujun/0DFD06D20DFD06D2/SLAM/vlmaps/ops/build/temp.linux-x86_64-cpython-39/media/zhujun/0DFD06D20DFD06D2/SLAM/vlmaps/ops/src/cpu/ms_deform_attn_cpu.o	d71818a1a87931e5
+0	9038	1704980653440120100	/media/zhujun/0DFD06D20DFD06D2/SLAM/vlmaps/ops/build/temp.linux-x86_64-cpython-39/media/zhujun/0DFD06D20DFD06D2/SLAM/vlmaps/ops/src/vision.o	a6d0e5ddaee071bf
+0	9100	1704980653505220200	/media/zhujun/0DFD06D20DFD06D2/SLAM/vlmaps/ops/build/temp.linux-x86_64-cpython-39/media/zhujun/0DFD06D20DFD06D2/SLAM/vlmaps/ops/src/cuda/ms_deform_attn_cuda.o	13d987e7f604dd2a

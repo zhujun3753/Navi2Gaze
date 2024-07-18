@@ -1,0 +1,48 @@
+{
+  "stages": {
+    "paths": {
+      ".glb": [
+        "minival/00800-TEEsavR23oF/*.basis.glb",
+        "minival/00802-wcojb4TFT35/*.basis.glb",
+        "minival/00803-k1cupFYWXJ6/*.basis.glb",
+        "minival/00808-y9hTuugGdiq/*.basis.glb"
+      ]
+    },
+    "default_attributes": {
+      "shader_type": "flat",
+      "up": [
+        0,
+        0,
+        1
+      ],
+      "front": [
+        0,
+        1,
+        0
+      ],
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "semantic_descriptor_filename": "%%CONFIG_NAME_AS_ASSET_FILENAME%%.semantic.txt",
+      "semantic_asset": "%%CONFIG_NAME_AS_ASSET_FILENAME%%.semantic.glb",
+      "has_semantic_textures": true
+    }
+  },
+  "objects": {},
+  "light_setups": {},
+  "scene_instances": {
+    "default_attributes": {
+      "default_lighting": "no_lights"
+    },
+    "paths": {
+      ".json": [
+        "minival/00800-TEEsavR23oF/*.basis.scene_instance.json",
+        "minival/00802-wcojb4TFT35/*.basis.scene_instance.json",
+        "minival/00803-k1cupFYWXJ6/*.basis.scene_instance.json",
+        "minival/00808-y9hTuugGdiq/*.basis.scene_instance.json"
+      ]
+    }
+  }
+}
